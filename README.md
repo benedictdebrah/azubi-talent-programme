@@ -51,6 +51,10 @@ This link opens the interactive Swagger UI, where you can try out the endpoints 
 
 The full data processing, model training, and evaluation workflow is documented in the included Jupyter notebook (`notebook.ipynb`).
 
+## Report
+
+Simple report on the process and findings
+ 
 ---
 
 For more details, see the API docs linked above.
