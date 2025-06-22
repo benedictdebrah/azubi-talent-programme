@@ -13,6 +13,10 @@ fastapi==0.115.13
 feature-engine==1.8.3
 fonttools==4.58.4
 h11==0.16.0
+h2==4.2.0
+hpack==4.1.0
+hypercorn==0.17.3
+hyperframe==6.1.0
 idna==3.10
 ipykernel==6.29.5
 ipython==9.3.0
@@ -35,6 +39,7 @@ patsy==1.0.1
 pexpect==4.9.0
 pillow==11.2.1
 platformdirs==4.3.8
+priority==2.0.0
 prompt-toolkit==3.0.51
 psutil==7.0.0
 ptyprocess==0.7.0
@@ -64,4 +69,5 @@ tzdata==2025.2
 uvicorn==0.34.3
 wcwidth==0.2.13
 widgetsnbextension==4.0.14
+wsproto==1.2.0
 yellowbrick==1.5
